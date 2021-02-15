@@ -1,4 +1,4 @@
-package org.lineageos.tvcustomizer;
+package org.kraken.tvcustomizer;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

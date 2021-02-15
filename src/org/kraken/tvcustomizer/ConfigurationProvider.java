@@ -1,4 +1,4 @@
-package org.lineageos.tvcustomizer;
+package org.kraken.tvcustomizer;
 
 import android.content.ContentProvider;
 import android.content.ContentProvider.PipeDataWriter;
